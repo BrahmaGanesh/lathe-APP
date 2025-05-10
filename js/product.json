@@ -1,5 +1,4 @@
-{
-  "produts": [
+ {"produts": [
     {
       "id": "1",
       "img": "images/logo.jpg",
@@ -99,92 +98,6 @@
       "id": "20",
       "img": "../logo.jpg",
       "name": "Key Stock"
-    }
-  ],
-  "list": [
-    {
-      "id": "fdad",
-      "name": "Iron Rod",
-      "size": "1",
-      "quantity": "1"
-    },
-    {
-      "id": "34a3",
-      "name": "Steel Shaft",
-      "size": "13",
-      "quantity": "12"
-    },
-    {
-      "id": "68ad",
-      "name": "Iron Rod",
-      "size": "1//3",
-      "quantity": "12"
-    },
-    {
-      "id": "7c02",
-      "name": "Steel Shaft",
-      "size": "22",
-      "quantity": "43"
-    }
-  ],
-  "previous": [
-    {
-      "id": "c6b7",
-      "billId": 1746626113480,
-      "items": [
-        {
-          "name": "Iron Rod",
-          "size": "12",
-          "quantity": "1"
-        },
-        {
-          "name": "Steel Shaft",
-          "size": "13",
-          "quantity": "12"
-        }
-      ]
-    },
-    {
-      "id": "30bd",
-      "billId": 1746626681241,
-      "items": [
-        {
-          "name": "Iron Rod",
-          "size": "12",
-          "quantity": "1"
-        },
-        {
-          "name": "Steel Shaft",
-          "size": "13",
-          "quantity": "12"
-        },
-        {
-          "name": "Iron Rod",
-          "size": "12",
-          "quantity": "12"
-        },
-        {
-          "name": "Steel Shaft",
-          "size": "32",
-          "quantity": "43"
-        }
-      ]
-    },
-    {
-      "id": "a1b2",
-      "billId": 1746627000000,
-      "items": [
-        {
-          "name": "Grinder Wheel",
-          "size": "10",
-          "quantity": "5"
-        },
-        {
-          "name": "Cutting Blade",
-          "size": "5",
-          "quantity": "3"
-        }
-      ]
     }
   ]
 }
