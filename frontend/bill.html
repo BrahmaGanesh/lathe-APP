@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css" type="text/css">
+  <title>NEW SRI RAMA LATHE WORKS</title>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="../logo.jpg" alt="logo" width="80px" height="80px">
+      <h1>NEW SRI RAMA LATHE WORKS</h1>
+    </div>
+    <ul>
+      <li><a href="index.html">Products</a></li>
+      <li><a href="#bills">Bills</a></li>
+      <li><a href="prvious.html">Previous Bills</a></li>
+      <li><a href="###">Contact</a></li>
+    </ul>
+  </header>
+  <div class="bill-table" id="bills">
+   <div id="bill-table">
+    <div class="bill-logo">
+      <img src="../logo.jpg" alt="logo">
+      <div class="shop-de">
+        <h1>NEW SRI RAMA LATHE WORKS</h1>
+       <div id="shop-de">
+        <div>
+          <p><b>Ph No : </b> +91 9640254545</p>
+          <p><b>Date : </b>20-04-2004</p>
+         </div>
+            <address>
+              <p><span>GNT Road ,</span> <span>Sullurpeta,Nellore (Dist)</span>,Andhra Pradesh-524121</p>
+            </address>
+       </div>
+      </div>
+    </div>
+    <div class="table">
+      <table border="1" width="100%" cellspacing="0" cellpadding="8">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>product Name</th>
+            <th>Size</th>
+            <th>quantity</th>
+          </tr>
+        </thead>
+        <tbody class="auto-counter" id="list">
+        </tbody>
+      </table>
+    </div>
+   </div>
+   <button id="Print" onclick="printDiv('bills')">Print</button>
+   <button id="printPreviousBill">Save bill</button>
+
+   <button id="clear">Clear List</button>
+  </div>
+</body>
+<script src="script.js"></script>
+</html>

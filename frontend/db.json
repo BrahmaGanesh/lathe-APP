@@ -1,0 +1,190 @@
+{
+  "produts": [
+    {
+      "id": "1",
+      "img": "../logo.jpg",
+      "name": "Iron Rod"
+    },
+    {
+      "id": "2",
+      "img": "../logo.jpg",
+      "name": "Steel Shaft"
+    },
+    {
+      "id": "3",
+      "img": "../logo.jpg",
+      "name": "Bearing"
+    },
+    {
+      "id": "4",
+      "img": "../logo.jpg",
+      "name": "Screws"
+    },
+    {
+      "id": "5",
+      "img": "../logo.jpg",
+      "name": "Bolts"
+    },
+    {
+      "id": "6",
+      "img": "../logo.jpg",
+      "name": "Nuts"
+    },
+    {
+      "id": "7",
+      "img": "../logo.jpg",
+      "name": "Washers"
+    },
+    {
+      "id": "8",
+      "img": "../logo.jpg",
+      "name": "Gears"
+    },
+    {
+      "id": "9",
+      "img": "../logo.jpg",
+      "name": "Chains"
+    },
+    {
+      "id": "10",
+      "img": "../logo.jpg",
+      "name": "Couplings"
+    },
+    {
+      "id": "11",
+      "img": "../logo.jpg",
+      "name": "Pulleys"
+    },
+    {
+      "id": "12",
+      "img": "../logo.jpg",
+      "name": "Bushes"
+    },
+    {
+      "id": "13",
+      "img": "../logo.jpg",
+      "name": "Tools Holder"
+    },
+    {
+      "id": "14",
+      "img": "../logo.jpg",
+      "name": "Cutting Blade"
+    },
+    {
+      "id": "15",
+      "img": "../logo.jpg",
+      "name": "Grinder Wheel"
+    },
+    {
+      "id": "16",
+      "img": "../logo.jpg",
+      "name": "Drill Bit"
+    },
+    {
+      "id": "17",
+      "img": "../logo.jpg",
+      "name": "Tap Set"
+    },
+    {
+      "id": "18",
+      "img": "../logo.jpg",
+      "name": "Thread Die"
+    },
+    {
+      "id": "19",
+      "img": "../logo.jpg",
+      "name": "Oil Seal"
+    },
+    {
+      "id": "20",
+      "img": "../logo.jpg",
+      "name": "Key Stock"
+    }
+  ],
+  "list": [
+    {
+      "id": "fdad",
+      "name": "Iron Rod",
+      "size": "12",
+      "quantity": "1"
+    },
+    {
+      "id": "34a3",
+      "name": "Steel Shaft",
+      "size": "13",
+      "quantity": "12"
+    },
+    {
+      "id": "68ad",
+      "name": "Iron Rod",
+      "size": "12",
+      "quantity": "12"
+    },
+    {
+      "id": "7c02",
+      "name": "Steel Shaft",
+      "size": "32",
+      "quantity": "43"
+    }
+  ],
+  "previous": [
+    {
+      "id": "c6b7",
+      "billId": 1746626113480,
+      "items": [
+        {
+          "name": "Iron Rod",
+          "size": "12",
+          "quantity": "1"
+        },
+        {
+          "name": "Steel Shaft",
+          "size": "13",
+          "quantity": "12"
+        }
+      ]
+    },
+    {
+      "id": "30bd",
+      "billId": 1746626681241,
+      "items": [
+        {
+          "name": "Iron Rod",
+          "size": "12",
+          "quantity": "1"
+        },
+        {
+          "name": "Steel Shaft",
+          "size": "13",
+          "quantity": "12"
+        },
+        {
+          "name": "Iron Rod",
+          "size": "12",
+          "quantity": "12"
+        },
+        {
+          "name": "Steel Shaft",
+          "size": "32",
+          "quantity": "43"
+        }
+      ]
+    },
+    {
+      "id": "a1b2",
+      "billId": 1746627000000,
+      "items": [
+        {
+          "name": "Grinder Wheel",
+          "size": "10",
+          "quantity": "5"
+        },
+        {
+          "name": "Cutting Blade",
+          "size": "5",
+          "quantity": "3"
+        }
+      ]
+    }
+  ]
+}
