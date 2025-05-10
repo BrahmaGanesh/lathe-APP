@@ -22,32 +22,32 @@
     },
     {
       "id": "5",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Bolts"
     },
     {
       "id": "6",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Nuts"
     },
     {
       "id": "7",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Washers"
     },
     {
       "id": "8",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Gears"
     },
     {
       "id": "9",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Chains"
     },
     {
       "id": "10",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Couplings"
     },
     {
