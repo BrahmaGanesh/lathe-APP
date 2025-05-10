@@ -2,32 +2,32 @@
   "produts": [
     {
       "id": "1",
-      "img": "../images/logo.jpg",
+      "img": "images/logo.jpg",
       "name": "Iron Rod"
     },
     {
       "id": "2",
-      "img": "../images/logo.jpg",
+      "img": "images/logo.jpg",
       "name": "Steel Shaft"
     },
     {
       "id": "3",
-      "img": "../images/logo.jpg",
+      "img": "images/logo.jpg",
       "name": "Bearing"
     },
     {
       "id": "4",
-      "img": "../images/logo.jpg",
+      "img": "images/logo.jpg",
       "name": "Screws"
     },
     {
       "id": "5",
-      "img": "../images/logo.jpg",
+      "img": "images/logo.jpg",
       "name": "Bolts"
     },
     {
       "id": "6",
-      "img": "../images/logo.jpg",
+      "img": "images/logo.jpg",
       "name": "Nuts"
     },
     {
