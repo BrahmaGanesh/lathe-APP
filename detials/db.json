@@ -2,22 +2,22 @@
   "produts": [
     {
       "id": "1",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Iron Rod"
     },
     {
       "id": "2",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Steel Shaft"
     },
     {
       "id": "3",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Bearing"
     },
     {
       "id": "4",
-      "img": "../logo.jpg",
+      "img": "../images/logo.jpg",
       "name": "Screws"
     },
     {
